@@ -1,0 +1,20 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "monokai"
+    ]
+  editor:
+    invisibles:
+      cr: "　"
+      eol: "↓"
+    showInvisibles: true
+    softTabs: false
+    softWrap: true
+    tabType: "hard"
+  emmet:
+    extensionsPath: "~/.atom/emmet"
+  "exception-reporting":
+    userId: "704f1521-3914-0468-6464-7c2e0b62d246"
+  welcome:
+    showOnStartup: false
